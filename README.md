@@ -2,10 +2,17 @@
 
 推崇精简、高效、自由度高和可视化的开发模式、库和框架。 
 
-注重视觉和用户体验；
 
 - 🔭 我正在找工作
-- 🌱 I am currently making an web operating system 
+- 🌱 I am currently making an web operating system
+<!-- - 可视化（颜色/形状/动画） > 脚本化（文字） -->
+- 😄 Visualization (color/shape/animation)> Scripting (text) 
+- ❤️ JS/HTML/CSS
+- 👍 Vue/React/Angular
+- 🙂 Electron/deno
+- ☹️ Nodejs/npm
+- 💩 webpack/RN
+- 😱 sourcemap
 
 ![](https://github-readme-stats.vercel.app/api?username=kirakiray)
 
