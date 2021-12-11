@@ -7,9 +7,9 @@
 - 🌱 I am currently making an web operating system
 - 😄 Visualization (color/shape/animation)> Scripting (text) 
 - ❤️ JS/HTML/CSS
-- 👍 Vue/React/Angular
-- 🙂 Electron/deno
-- ☹️ Nodejs/npm
+- 👍 Vue
+- 🙂 Electron/deno/Angular
+- ☹️ Nodejs/npm/React
 - 💩 webpack/RN
 - 😱 sourcemap
 
