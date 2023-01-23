@@ -11,7 +11,7 @@
 - 🙂 Electron/deno/Angular
 - ☹️ Nodejs/npm
 - 💩 React/webpack
-- 💩💩 MATERIAL-UI
+- 💩💩 MATERIAL-UI(React Component)
 - 😱 sourcemap
 
 ![](https://github-readme-stats.vercel.app/api?username=kirakiray)
