@@ -16,7 +16,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kirakiray)
 
-![Kirakiray's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirakiray)](https://github.com/kirakiray/github-readme-stats)
+[![Kirakiray's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirakiray)](https://github.com/kirakiray/github-readme-stats)
 
 <!--
 **kirakiray/kirakiray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
