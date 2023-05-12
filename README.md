@@ -1,6 +1,6 @@
 ### Hi,👋 I am Yao 
 
-推崇精简、高效、自由度高和可视化的开发模式、库和框架。 
+Prefer lean, efficient, free-flowing and visual development patterns, libraries and frameworks.
 
 <!-- - 🔭 我正在找工作 -->
 <!-- - 可视化（颜色/形状/动画） > 脚本化（文字） -->
